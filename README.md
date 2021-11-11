@@ -1,7 +1,5 @@
 ### Hi! I'm Estevão Henrique. 👋
 
-Here are some ideas to get you started:
-
 - 🔭 Atualmente estou trabalhando na H8 Soluções Empresariais
 - 👍 Atualmente trabalho fazendo sites em Wordpress usando Elementor
 - 🌱 Atualmente estou aprendendo HTML, CSS e JS
