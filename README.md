@@ -1,8 +1,9 @@
 ### Olá! Eu me chamo Estevão Henrique, seja bem vindo ao meu perfil do GitHub! 👋
 
 - 🔭   Atualmente estou trabalhando na H8 Soluções Empresariais;
-- 👍   Atualmente trabalho fazendo sites em Wordpress usando Elementor;
+- 👍   Atualmente trabalho fazendo sites em Wordpress usando Plugin Elementor;
 - 🌱   Atualmente estou aprendendo HTML, CSS e JS.
+- 📡   Interesse em aprender ReactJS, NodeJS, React Native.
 
 
 <div align="center">
