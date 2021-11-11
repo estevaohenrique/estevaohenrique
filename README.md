@@ -2,8 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando na H8 Soluções Empresariais;
 - 👍 Atualmente trabalho fazendo sites em Wordpress usando Elementor;
-- 🌱 Atualmente estou aprendendo HTML, CSS e JS;
-- 📫 Como chegar até mim: estevaohenrique@live.com.
+- 🌱 Atualmente estou aprendendo HTML, CSS e JS.
 
 
 <div align="center">
