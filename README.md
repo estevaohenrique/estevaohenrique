@@ -1,6 +1,9 @@
 ### Estevão Henrique 💚
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Estevão_Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estevaohenrique/)](https://www.linkedin.com/in/estevaohenrique/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Estevão_Henrique-grenn?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estevaohenrique/)](https://www.linkedin.com/in/estevaohenrique/)
+<a href="https://github.com/estevaohenrique/?tab=follow">
+    <img src="https://img.shields.io/github/followers/estevaohenrique?label=Follow&style=social" />
+  </a>
   
 🔭   Atualmente estou trabalhando na H8 Soluções Empresariais;<br>
 👍   Atualmente trabalho fazendo sites em Wordpress usando Plugin Elementor;<br>
