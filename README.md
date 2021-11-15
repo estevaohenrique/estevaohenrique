@@ -7,7 +7,7 @@
   
 ☘️   Atualmente trabalho pela empresa H8 Soluções Empraariaus, fazendo sites em Wordpress usando Plugin Elementor;<br>
 🌱   Atualmente estou aprendendo HTML, CSS e JS;<br>
-📡   Interesse em aprender ReactJS, NodeJS, React Native.
+✅   Interesse em aprender ReactJS, NodeJS, React Native.
 
 
 <div style="display: inline_block"><br>
