@@ -5,8 +5,7 @@
     <img src="https://img.shields.io/github/followers/estevaohenrique?label=Follow&style=social" />
   </a>
   
-🔭   Atualmente estou trabalhando na H8 Soluções Empresariais;<br>
-☘️   Atualmente trabalho fazendo sites em Wordpress usando Plugin Elementor;<br>
+☘️   Atualmente trabalho pela empresa H8 Soluções Empraariaus, fazendo sites em Wordpress usando Plugin Elementor;<br>
 🌱   Atualmente estou aprendendo HTML, CSS e JS;<br>
 📡   Interesse em aprender ReactJS, NodeJS, React Native.
 
