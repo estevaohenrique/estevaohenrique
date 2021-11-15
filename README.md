@@ -1,7 +1,6 @@
-### Estevão Henrique
+### Estevão Henrique 💚
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Estevão_Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estevaohenrique/)](https://www.linkedin.com/in/estevaohenrique/)
-[![YouTube Badge](https://img.shields.io/badge/-Estevão_Henrique-EF1A19?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/estevaohenrique)](https://www.youtube.com/estevaohenrique)
   
 🔭   Atualmente estou trabalhando na H8 Soluções Empresariais;<br>
 👍   Atualmente trabalho fazendo sites em Wordpress usando Plugin Elementor;<br>
