@@ -1,9 +1,7 @@
 ### Estevão Henrique
 
-<div align="right"><br>
-  <a href="https://www.linkedin.com/in/estevaohenrique/">
-  <img align="center" alt="Tevo-linkedin" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-</div> </a>
+[![LinkedIn Badge](https://img.shields.io/badge/-Estevão_Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estevaohenrique/)](https://www.linkedin.com/in/estevaohenrique/)
+[![YouTube Badge](https://img.shields.io/badge/-Estevão_Henrique-EF1A19?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/estevaohenrique)](https://www.youtube.com/estevaohenrique)
   
 🔭   Atualmente estou trabalhando na H8 Soluções Empresariais;<br>
 👍   Atualmente trabalho fazendo sites em Wordpress usando Plugin Elementor;<br>
