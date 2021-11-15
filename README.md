@@ -2,21 +2,21 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Estevão_Henrique-grenn?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estevaohenrique/)](https://www.linkedin.com/in/estevaohenrique/)
 <a href="https://github.com/estevaohenrique/?tab=follow">
-    <img src="https://img.shields.io/github/followers/estevaohenrique?label=Follow&style=social" />
+  <img src="https://img.shields.io/github/followers/estevaohenrique?label=Follow&style=social" />
+</a>
+<div align="center" style="display: inline_block"><br>
+  <a href="https://github.com/estevaohenrique">
+    <img align="center" alt="Tevo-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" alt="Tevo-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center" alt="Tevo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Tevo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </a>
-  
+</div><br>
+    
 ☘️   Atualmente trabalho pela Agência H8, fazendo sites em Wordpress usando Plugin Elementor;<br>
 🌱   Atualmente estou aprendendo HTML, CSS e JS;<br>
 ✅   Interesse em aprender ReactJS, NodeJS, React Native.
 
-
-<div style="display: inline_block"><br>
-  <a href="https://github.com/estevaohenrique">
-  <img align="center" alt="Tevo-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Tevo-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Tevo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Tevo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div><br>
 
 
 <div align="center">
