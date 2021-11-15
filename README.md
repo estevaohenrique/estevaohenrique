@@ -6,7 +6,7 @@
   </a>
   
 🔭   Atualmente estou trabalhando na H8 Soluções Empresariais;<br>
-👍   Atualmente trabalho fazendo sites em Wordpress usando Plugin Elementor;<br>
+☘️   Atualmente trabalho fazendo sites em Wordpress usando Plugin Elementor;<br>
 🌱   Atualmente estou aprendendo HTML, CSS e JS;<br>
 📡   Interesse em aprender ReactJS, NodeJS, React Native.
 
