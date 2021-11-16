@@ -25,6 +25,6 @@
  <a href="https://github.com/estevaohenrique"><img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaohenrique&layout=compact&langs_count=7&title_color=62C334&icon_color=EFFFE8&bg_color=ffffff00&text_color=62C334&hide_border=true"/></a>
 </div>
 
-<img align="right" width="300px" src="./bio-image.svg" />
+
 
 
