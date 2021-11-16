@@ -12,9 +12,9 @@
   <a href="https://github.com/estevaohenrique"><img align="center" alt="Tevo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
 </div><br>
     
-☘️   Atualmente trabalho pela Agência H8, fazendo sites em Wordpress usando Plugin Elementor;<br>
-🌱   Atualmente estou aprendendo HTML, CSS e JS;<br>
-✅   Interesse em aprender ReactJS, NodeJS, React Native.
+☘️ Atualmente trabalho pela Agência H8, fazendo sites em Wordpress usando Plugin Elementor;<br>
+🌱 Atualmente estou aprendendo HTML, CSS e JS;<br>
+✅ Interesse em aprender ReactJS, NodeJS, React Native.
 
 
 
@@ -24,3 +24,7 @@
 <!-- Langues -->
  <a href="https://github.com/estevaohenrique"><img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaohenrique&layout=compact&langs_count=7&title_color=62C334&icon_color=EFFFE8&bg_color=ffffff00&text_color=62C334&hide_border=true"/></a>
 </div>
+
+<img align="right" width="300px" src="./bio-image.svg" />
+
+
