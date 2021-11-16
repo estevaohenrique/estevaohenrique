@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://github.com/estevaohenrique">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=estevaohenrique&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=62C334&icon_color=EFFFE8&bg_color=ffffff00&text_color=62C334&hide_border=true"/></a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=estevaohenrique&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=62C334&icon_color=EFFFE8&bg_color=ffffff00&text_color=62C334&hide_border=true"/></a>
 <!-- Langues -->
- <a href="https://github.com/estevaohenrique"><img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaohenrique&layout=compact&langs_count=7&theme=merko&title_color=62C334&icon_color=EFFFE8&bg_color=ffffff00&text_color=62C334&hide_border=true"/></a>
+ <a href="https://github.com/estevaohenrique"><img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaohenrique&layout=compact&langs_count=7&theme=merko&title_color=62C334&icon_color=EFFFE8&bg_color=ffffff00&text_color=62C334&hide_border=true"/></a>
 </div>
