@@ -13,7 +13,6 @@
 </div><br>
     
 🌱 Atualmente estou aprendendo HTML, CSS e JS;<br>
-☘️ Atualmente prestando serviço pela Agência H8;<br>
 🌳 Interesse em aprender ReactJS, NodeJS, React Native.
 
 
