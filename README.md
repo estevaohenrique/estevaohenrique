@@ -12,8 +12,8 @@
   <a href="https://github.com/estevaohenrique"><img align="center" alt="Tevo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
 </div><br>
     
-🌱 Atualmente estou aprendendo HTML, CSS e JS;<br>
-🌳 Interesse em aprender ReactJS, NodeJS, React Native.
+🌱 Learning HTML, CSS and JS;<br>
+🌳 Wanting to learn ReactJS, NodeJS, React Native.
 
 
 
