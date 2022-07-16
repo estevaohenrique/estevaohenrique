@@ -13,7 +13,7 @@
 </div><br>
     
 🌱 Learning HTML, CSS and JS;<br>
-🌳 Wanting to learn ReactJS, NodeJS, React Native.
+🌳 Wanting to learn ReactJS, NodeJS, Phyton.
 
 
 
