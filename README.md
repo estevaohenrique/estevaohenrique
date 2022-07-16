@@ -10,7 +10,9 @@
   <a href="https://github.com/estevaohenrique"><img align="center" alt="Tevo-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a> 
   <a href="https://github.com/estevaohenrique"><img align="center" alt="Tevo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
   <a href="https://github.com/estevaohenrique"><img align="center" alt="Tevo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
-  <a href="https://github.com/estevaohenrique"><img align="center" alt="Tevo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></a>
+  
+  <a href="https://github.com/estevaohenrique"><img align="center" alt="Tevo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
+  
 </div><br>
     
 🌱 Learning HTML, CSS and JS;<br>
