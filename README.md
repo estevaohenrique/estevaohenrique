@@ -8,10 +8,12 @@
 <div align="center" style="display: inline_block"><br>
   <a href="https://github.com/estevaohenrique"><img align="center" alt="Tevo-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
   <a href="https://github.com/estevaohenrique"><img align="center" alt="Tevo-pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></a>
+  <a href="https://github.com/estevaohenrique"><img align="center" alt="Tevo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"></a>
   <a href="https://github.com/estevaohenrique"><img align="center" alt="Tevo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
+  <a href="https://github.com/estevaohenrique"><img align="center" alt="Tevo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
 </div><br>
     
-🌱 Learning Phyton and Pandas;<br>
+🌱 Learning Phyton, Pandas, Jupyter;<br>
 🌳 Wanting to learn Machine Learning, NumPy, SQL, Big Data.
 
 
