@@ -6,15 +6,13 @@
 </a>
 
 <div align="center" style="display: inline_block"><br>
-  <a href="https://github.com/estevaohenrique"><img align="center" alt="Tevo-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
-  <a href="https://github.com/estevaohenrique"><img align="center" alt="Tevo-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a> 
-  <a href="https://github.com/estevaohenrique"><img align="center" alt="Tevo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
-  <a href="https://github.com/estevaohenrique"><img align="center" alt="Tevo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
+  <a href="https://github.com/estevaohenrique"><img align="center" alt="Tevo-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
+  <a href="https://github.com/estevaohenrique"><img align="center" alt="Tevo-pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></a>
   <a href="https://github.com/estevaohenrique"><img align="center" alt="Tevo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
 </div><br>
     
-🌱 Learning HTML, CSS and JS;<br>
-🌳 Wanting to learn ReactJS, NodeJS, Phyton.
+🌱 Learning Phyton and Pandas;<br>
+🌳 Wanting to learn Machine Learning, NumPy, SQL, Big Data.
 
 
 
